@@ -3,7 +3,7 @@
 		<title>简历</title>
 	</head>
 <body>
-<h2 style="background-color: rgb(195, 238, 214);height: 100%;">
+<h2 style="height: 100%;">
 	<table border="1"
 	cellspacing="0px"
 	style="margin:auto;"
